@@ -1,18 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Competitive+Programmer;Building+Scalable+Web+Apps" />
+
+<h2>Hariom Tiwari</h2>
+<p><b>Full-Stack Developer | React & Node.js | Competitive Programmer</b></p>
+
 </div>
 
-# 💫 About Me:
-🎓 I’m a Computer Science student and a passionate full-stack developer.<br>💻 I’m currently working on web applications using React, Node.js, and MongoDB.<br>🧠 I enjoy solving challenging problems using Data Structures, Algorithms, and Competitive Programming.<br>🤝 I’m open to collaborating on innovative ideas, startups, and open-source projects.
+---
 
+## 👋 About Me  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hariom-tiwari-4450a92b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariomtiwari.cse@gmail.com) 
+I am a **Computer Science student and full-stack developer** with a strong focus on building **scalable, user-friendly web applications**.  
+I enjoy solving **complex problems** using **Data Structures, Algorithms, and Competitive Programming**, and I love converting ideas into clean, efficient code.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hariomtiwari80&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hariomtiwari80&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariomtiwari80&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔹 Strong in **React, Node.js, MongoDB**
+- 🔹 Active in **DSA & Competitive Programming**
+- 🔹 Passionate about **product-oriented development**
+- 🔹 Open to **internships, startups, and open-source collaborations**
 
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariom%20Tiwari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-tiwari-4450a92b6/)  
+[![Email](https://img.shields.io/badge/Email-hariomtiwari.cse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hariomtiwari.cse@gmail.com)
+
+---
+
+## 🛠 Tech Stack  
+
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Activity  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hariomtiwari80&show_icons=true&theme=react&hide_border=true" width="48%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=hariomtiwari80&theme=react&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomtiwari80&layout=compact&theme=react&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 🚀 What I’m Currently Doing  
+- Building **full-stack projects** using React & Node  
+- Practicing **DSA and Competitive Programming**  
+- Learning **system design & scalable architectures**
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect with me!*
