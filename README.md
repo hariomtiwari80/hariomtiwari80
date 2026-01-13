@@ -2,12 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Competitive+Programmer;Building+Scalable+Web+Apps" />
 
-<h2>Hariom Tiwari</h2>
-<p><b>Full-Stack Developer | Competitive Programmer</b></p>
 
 </div>
 
----
 
 ## 👋 About Me  
 
