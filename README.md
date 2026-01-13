@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast" alt="Typing SVG" />
+</div>
+
 # 💫 About Me:
 🎓 I’m a Computer Science student and a passionate full-stack developer.<br>💻 I’m currently working on web applications using React, Node.js, and MongoDB.<br>🧠 I enjoy solving challenging problems using Data Structures, Algorithms, and Competitive Programming.<br>🤝 I’m open to collaborating on innovative ideas, startups, and open-source projects.
 
