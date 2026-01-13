@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Competitive+Programmer;Building+Scalable+Web+Apps" />
 
 <h2>Hariom Tiwari</h2>
-<p><b>Full-Stack Developer | React & Node.js | Competitive Programmer</b></p>
+<p><b>Full-Stack Developer | Competitive Programmer</b></p>
 
 </div>
 
@@ -52,14 +52,9 @@ I enjoy solving **complex problems** using **Data Structures, Algorithms, and Co
 
 ## 📊 GitHub Activity  
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hariomtiwari80&show_icons=true&theme=react&hide_border=true" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=hariomtiwari80&theme=react&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariomtiwari80&layout=compact&theme=react&hide_border=true" width="48%" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=hariomtiwari80&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hariomtiwari80&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariomtiwari80&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
