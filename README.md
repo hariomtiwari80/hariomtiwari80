@@ -1,60 +1,128 @@
-<div align="center">
+# 🎮 Hariom.exe — Booting Developer Mode...
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Competitive+Programmer;Building+Scalable+Web+Apps" />
-
-
-</div>
-
-
-## 👋 About Me  
-
-I am a **Computer Science student and full-stack developer** with a strong focus on building **scalable, user-friendly web applications**.  
-I enjoy solving **complex problems** using **Data Structures, Algorithms, and Competitive Programming**, and I love converting ideas into clean, efficient code.
-
-- 🔹 Strong in **React, Node.js, MongoDB**
-- 🔹 Active in **DSA & Competitive Programming**
-- 🔹 Passionate about **product-oriented development**
-- 🔹 Open to **internships, startups, and open-source collaborations**
+```bash
+> Initializing System...
+> Loading React Modules...
+> Connecting MongoDB...
+> Running Dijkstra Algorithm...
+> Status: BUILDING THE FUTURE 🚀
+```
 
 ---
 
-## 🌐 Connect with Me  
+## 🧑‍💻 WHO AM I?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariom%20Tiwari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-tiwari-4450a92b6/)  
-[![Email](https://img.shields.io/badge/Email-hariomtiwari.cse@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hariomtiwari.cse@gmail.com)
+I’m **Hariom Tiwari**, a developer from India who codes like it's a boss fight.
 
----
+🧠 Computer Science Student
+⚡ Full Stack Developer
+🎯 Competitive Programmer
+🎮 Building Real Products like **Skill Swap Platform**
 
-## 🛠 Tech Stack  
-
-### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+> I don't write code…
+> I summon it like an anime power-up.
 
 ---
 
+## 🎬 MY DEVELOPER STORY (Anime Arc)
+
+### 🥚 Arc 1 — Beginner Mode
+
+Learned HTML, CSS, JS
+Made ugly websites
+Didn’t understand Flexbox 😭
+
+### ⚔️ Arc 2 — Power-Up Mode
+
+Learned **React + Node + MongoDB**
+Built Skill Swap Platform
+Started solving LeetCode daily
+
+### 👑 Arc 3 — Final Boss Mode (Current)
+
+System Design
+Scalable Web Apps
+Hackathons like **Law Ministry e-Portal Project**
+
+Next Goal → FAANG / Big Startup 🚀
 
 ---
 
-## 🚀 What I’m Currently Doing  
-- Building **full-stack projects** using React & Node  
-- Practicing **DSA and Competitive Programming**  
-- Learning **system design & scalable architectures**
+## 🧠 MY POWERS
+
+🌀 **React Sharingan**
+Can optimize renders & fix scroll bugs 😎
+
+🔥 **Node Rasengan**
+Build APIs, Auth, Database systems
+
+⚡ **DSA Bankai**
+Graphs • DP • Greedy • Backtracking
+
+🎯 **Hackathon Mode**
+Built SIH Case Management Portal UI
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories and connect with me!*
+## 🎮 CURRENT QUESTS
+
+* Build **Skill Swap Platform** into real product
+* Solve LeetCode daily
+* Learn System Design
+* Contribute Open Source
+
+XP Needed → ∞
+
+---
+
+## 📺 LIVE DEV MODE (Add your GIF/video here)
+
+Paste any anime GIF like:
+
+```
+![coding anime](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+```
+
+Or YouTube dev vlog:
+
+```
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
+(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+```
+
+Show your project demo video 🔥
+
+---
+
+## 🧩 TECH STACK = MY INVENTORY
+
+Frontend → React • Tailwind • TypeScript
+Backend → Node • Express
+Database → MongoDB • MySQL
+Weapons → Git • Vercel • VS Code
+
+Legendary Item → Coffee ☕ + Late Night Coding 🌙
+
+---
+
+## 🤝 PARTY MEMBERS WANTED
+
+Looking for:
+
+* Internships
+* Startup teammates
+* Hackathon partners
+* Open-source warriors
+
+📩 Email → [hariomtiwari.cse@gmail.com](mailto:hariomtiwari.cse@gmail.com)
+🔗 LinkedIn → linkedin.com/in/hariom-tiwari-4450a92b6
+
+---
+
+## 🏆 FINAL QUOTE
+
+> “Hard work beats talent when talent doesn’t debug their code.”
+
+---
+
+⭐ If you like my work, star my repos or challenge me to a coding duel ⚔️
