@@ -1,128 +1,57 @@
-# 🎮 Hariom.exe — Booting Developer Mode...
+<h1 align="center">Hey 👋 I'm Hariom Tiwari</h1>
 
-```bash
-> Initializing System...
-> Loading React Modules...
-> Connecting MongoDB...
-> Running Dijkstra Algorithm...
-> Status: BUILDING THE FUTURE 🚀
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Developer;LeetCode+DSA+Grinder;SIH+Hackathon+Builder;Future+TCS+NQT+Cracker" />
+</p>
 
----
-
-## 🧑‍💻 WHO AM I?
-
-I’m **Hariom Tiwari**, a developer from India who codes like it's a boss fight.
-
-🧠 Computer Science Student
-⚡ Full Stack Developer
-🎯 Competitive Programmer
-🎮 Building Real Products like **Skill Swap Platform**
-
-> I don't write code…
-> I summon it like an anime power-up.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
 ---
 
-## 🎬 MY DEVELOPER STORY (Anime Arc)
+## 🧑‍💻 About Me
 
-### 🥚 Arc 1 — Beginner Mode
-
-Learned HTML, CSS, JS
-Made ugly websites
-Didn’t understand Flexbox 😭
-
-### ⚔️ Arc 2 — Power-Up Mode
-
-Learned **React + Node + MongoDB**
-Built Skill Swap Platform
-Started solving LeetCode daily
-
-### 👑 Arc 3 — Final Boss Mode (Current)
-
-System Design
-Scalable Web Apps
-Hackathons like **Law Ministry e-Portal Project**
-
-Next Goal → FAANG / Big Startup 🚀
+🚀 Building **Skill Swap Platform in React**  
+🏆 Built **Ministry of Law & Justice SIH Case Portal UI**  
+🧠 Solving LeetCode Daily (Graphs, DP, Greedy – Jump Game etc.)  
+🎯 Preparing for **TCS NQT March 2026**  
+🎨 Love clean UI & modern frontend  
 
 ---
 
-## 🧠 MY POWERS
+## ⚡ Tech Stack
 
-🌀 **React Sharingan**
-Can optimize renders & fix scroll bugs 😎
-
-🔥 **Node Rasengan**
-Build APIs, Auth, Database systems
-
-⚡ **DSA Bankai**
-Graphs • DP • Greedy • Backtracking
-
-🎯 **Hackathon Mode**
-Built SIH Case Management Portal UI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode,tailwind,bootstrap" />
+</p>
 
 ---
 
-## 🎮 CURRENT QUESTS
+## 📊 GitHub Stats
 
-* Build **Skill Swap Platform** into real product
-* Solve LeetCode daily
-* Learn System Design
-* Contribute Open Source
-
-XP Needed → ∞
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" width="47%"/>
+</p>
 
 ---
 
-## 📺 LIVE DEV MODE (Add your GIF/video here)
+## 🐍 Contribution Snake
 
-Paste any anime GIF like:
-
-```
-![coding anime](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-```
-
-Or YouTube dev vlog:
-
-```
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
-(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-Show your project demo video 🔥
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-## 🧩 TECH STACK = MY INVENTORY
+## 🌐 Connect With Me
 
-Frontend → React • Tailwind • TypeScript
-Backend → Node • Express
-Database → MongoDB • MySQL
-Weapons → Git • Vercel • VS Code
-
-Legendary Item → Coffee ☕ + Late Night Coding 🌙
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
-## 🤝 PARTY MEMBERS WANTED
-
-Looking for:
-
-* Internships
-* Startup teammates
-* Hackathon partners
-* Open-source warriors
-
-📩 Email → [hariomtiwari.cse@gmail.com](mailto:hariomtiwari.cse@gmail.com)
-🔗 LinkedIn → linkedin.com/in/hariom-tiwari-4450a92b6
-
----
-
-## 🏆 FINAL QUOTE
-
-> “Hard work beats talent when talent doesn’t debug their code.”
-
----
-
-⭐ If you like my work, star my repos or challenge me to a coding duel ⚔️
+<h3 align="center">⚡ Code Hard • Build Cool Stuff • Crack Dream Job 🚀</h3>
