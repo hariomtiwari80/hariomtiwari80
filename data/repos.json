@@ -1,0 +1,34 @@
+{
+  "user": "sample",
+  "sample": true,
+  "repos": [
+    {
+      "name": "mern-app",
+      "description": "Full-stack MERN project with auth, REST API and a React front end.",
+      "language": "JavaScript",
+      "stars": 0,
+      "url": "https://github.com/"
+    },
+    {
+      "name": "langgraph-agent",
+      "description": "Multi-step LLM agent built with LangGraph and tool calling.",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/"
+    },
+    {
+      "name": "rag-chatbot",
+      "description": "Retrieval-augmented chatbot over your own documents with LangChain.",
+      "language": "Python",
+      "stars": 0,
+      "url": "https://github.com/"
+    },
+    {
+      "name": "dsa-in-java",
+      "description": "Data structures and algorithms practice, solved in Java.",
+      "language": "Java",
+      "stars": 0,
+      "url": "https://github.com/"
+    }
+  ]
+}

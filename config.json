@@ -1,0 +1,26 @@
+{
+  "name": "Hariom Tiwari",
+  "first_name": "Hariom",
+  "last_name": "Tiwari",
+  "eyebrow": "B.Tech CSE · GLA University · Class of 2027",
+  "tagline": "I build MERN apps and LangGraph agents, mostly in Java and JavaScript.",
+  "tags": ["Java", "JavaScript", "MERN", "LangChain", "LangGraph", "RAG"],
+
+  "github_user": "",
+
+  "leetcode": {
+    "url": "https://leetcode.com/u/YOUR_LEETCODE_ID",
+    "rating": 1850,
+    "title": "Knight"
+  },
+  "codeforces": {
+    "url": "https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE",
+    "rating": 1450,
+    "title": "Specialist"
+  },
+
+  "repos": {
+    "count": 4,
+    "featured": []
+  }
+}
