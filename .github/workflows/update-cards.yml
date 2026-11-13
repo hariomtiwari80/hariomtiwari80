@@ -48,3 +48,4 @@ jobs:
             git commit -m "chore: refresh profile cards"
             git push
           fi
+
