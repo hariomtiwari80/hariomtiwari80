@@ -314,11 +314,11 @@ def hero():
     # chips, wrapped onto rows if needed
     chips, cx, cy = [], LM, chips_y
     for i, tag in enumerate(CFG["tags"]):
-        w = FONTS.measure("sansb", tag, 12.5) + 26
+        w = FONTS.measure("sansb", tag, 12.5) + 22
         if cx + w > LM + TEXT_W:
             cx, cy = LM, cy + 36
         chips.append((cx, cy, w, tag, i))
-        cx += w + 8
+        cx += w + 6
     H = int(cy + 28 + 36)
 
     body = [card_bg(W, H)]
