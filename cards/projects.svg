@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="316" viewBox="0 0 900 316" role="img" aria-label="Featured projects"><style>
+text{font-family:Geist,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#141414}
+@keyframes rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{opacity:0;transform:scale(0)}70%{transform:scale(1.25)}100%{opacity:1;transform:scale(1)}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes tile{0%{opacity:0;transform:translateY(60px) rotate(-5deg)}60%{opacity:1;transform:translateY(-8px) rotate(1deg)}100%{opacity:1;transform:none}}
+@keyframes ring{from{opacity:.7;transform:scale(.4)}to{opacity:0;transform:scale(2.6)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.o{transform-box:fill-box}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style><defs></defs><rect width="900" height="316" rx="14" fill="#fff" stroke="#e2dfd6"/><text x="32" y="40" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="26">Featured projects</text><g class="o" style="animation:rise 0.7s 4.40s both;"><rect x="24" y="64" width="852" height="72" rx="10" fill="#f7f5f0"/><text x="44" y="94" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">PRLens</text><text x="44" y="118" font-size="13" style="fill:#6b6b66">AI engineering intelligence platform with GitHub analytics and AI insights.</text><text x="856" y="94" font-size="12" text-anchor="end" style="fill:#2f5bea">GitHub OAuth · Groq</text></g><g class="o" style="animation:rise 0.7s 4.60s both;"><rect x="24" y="148" width="852" height="72" rx="10" fill="#f7f5f0"/><text x="44" y="178" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">CodeArc</text><text x="44" y="202" font-size="13" style="fill:#6b6b66">AI Codeforces coach: contest analytics, weak-topic detection, roadmaps.</text><text x="856" y="178" font-size="12" text-anchor="end" style="fill:#2f5bea">Analytics · AI</text></g><g class="o" style="animation:rise 0.7s 4.80s both;"><rect x="24" y="232" width="852" height="72" rx="10" fill="#f7f5f0"/><text x="44" y="262" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">SelfSevya</text><text x="44" y="286" font-size="13" style="fill:#6b6b66">Doctor appointment booking with user, doctor and admin portals.</text><text x="856" y="262" font-size="12" text-anchor="end" style="fill:#2f5bea">MERN · JWT · RBAC</text></g></svg>

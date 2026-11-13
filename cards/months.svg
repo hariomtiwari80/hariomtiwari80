@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="Monthly contributions"><style>
+text{font-family:Geist,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#141414}
+@keyframes rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{opacity:0;transform:scale(0)}70%{transform:scale(1.25)}100%{opacity:1;transform:scale(1)}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes tile{0%{opacity:0;transform:translateY(60px) rotate(-5deg)}60%{opacity:1;transform:translateY(-8px) rotate(1deg)}100%{opacity:1;transform:none}}
+@keyframes ring{from{opacity:.7;transform:scale(.4)}to{opacity:0;transform:scale(2.6)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.o{transform-box:fill-box}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style><defs></defs><rect width="900" height="330" rx="14" fill="#f7f5f0" stroke="#e2dfd6"/><text x="32" y="40" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="26">Contributions by month</text><text x="32" y="296" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">0d</text><text x="32" y="316" font-size="12" style="fill:#6b6b66">current streak</text><text x="247" y="296" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">0d</text><text x="247" y="316" font-size="12" style="fill:#6b6b66">longest streak</text><text x="462" y="296" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">0</text><text x="462" y="316" font-size="12" style="fill:#6b6b66">active days</text><text x="677" y="296" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="28">0 · Nov 13</text><text x="677" y="316" font-size="12" style="fill:#6b6b66">busiest day</text></svg>

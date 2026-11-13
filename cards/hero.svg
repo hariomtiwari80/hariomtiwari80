@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Hariom Tiwari"><style>
+text{font-family:Geist,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#141414}
+@keyframes rise{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{opacity:0;transform:scale(0)}70%{transform:scale(1.25)}100%{opacity:1;transform:scale(1)}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes tile{0%{opacity:0;transform:translateY(60px) rotate(-5deg)}60%{opacity:1;transform:translateY(-8px) rotate(1deg)}100%{opacity:1;transform:none}}
+@keyframes ring{from{opacity:.7;transform:scale(.4)}to{opacity:0;transform:scale(2.6)}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.o{transform-box:fill-box}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style><defs><linearGradient id="sh" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="220" y2="0"><stop offset="0" stop-color="#141414"/><stop offset=".5" stop-color="#2f5bea"/><stop offset="1" stop-color="#141414"/><animateTransform attributeName="gradientTransform" type="translate" from="-300 0" to="700 0" dur="3.5s" begin="2s;+4s" repeatCount="indefinite"/></linearGradient></defs><rect width="900" height="320" rx="14" fill="#f7f5f0" stroke="#e2dfd6"/><g style="animation:rise 0.7s 0.10s both;"><text x="48" y="150" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="96" style="fill:#141414">Hariom</text></g><g style="animation:rise 0.7s 0.35s both;"><text x="48" y="238" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="96" style="fill:url(#sh)">Tiwari</text></g><text x="52" y="272" font-size="16" style="animation:fade 0.7s 0.90s both;">Building intelligent systems, scalable backends &amp; AI-powered products.</text><text x="52" y="296" font-size="13" style="fill:#6b6b66">Backend engineer · B.Tech CS, GLA University (2023–2027)</text><circle cx="40" cy="46" r="4" fill="#2f5bea" style="animation:pulse 2s infinite"/><text x="52" y="51" font-size="13" style="fill:#6b6b66">Software engineer</text></svg>
