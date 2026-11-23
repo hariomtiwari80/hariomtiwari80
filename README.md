@@ -22,8 +22,8 @@
 <p>
 <a href="https://github.com/hariomtiwari80/Multi-Agent"><img src="./cards/repo1.svg" width="49%" alt="Multi-Agent: repository" /></a>
 <a href="https://github.com/hariomtiwari80/Secure-Auth-System-"><img src="./cards/repo2.svg" width="49%" alt="Secure-Auth-System-: repository" /></a>
-<a href="https://github.com/hariomtiwari80/Problem-Solving"><img src="./cards/repo3.svg" width="49%" alt="Problem-Solving: repository" /></a>
-<a href="https://github.com/hariomtiwari80/Competitive-DSA"><img src="./cards/repo4.svg" width="49%" alt="Competitive-DSA: repository" /></a>
+<a href="https://github.com/hariomtiwari80/VisibilityIQ"><img src="./cards/repo3.svg" width="49%" alt="VisibilityIQ: repository" /></a>
+<a href="https://github.com/hariomtiwari80/Problem-Solving"><img src="./cards/repo4.svg" width="49%" alt="Problem-Solving: repository" /></a>
 </p>
 
 <sub>Cards are drawn by <code>scripts/render_readme_cards.py</code> and refreshed every day by a GitHub Action.</sub>
